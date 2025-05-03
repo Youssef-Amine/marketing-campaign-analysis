@@ -32,6 +32,7 @@ marketing-campaign-analysis/
 - Python (pandas, numpy, matplotlib, seaborn)
 - Scipy 
 - Statmodels
+The notebook has been generated with Google Colab
 
 ---
 
